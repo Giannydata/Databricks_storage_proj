@@ -1,0 +1,302 @@
+Agency,DistrictType,StaffingClassification,CareerFirefighters,VolunteerFirefighters,TotalFirefighters,DistrictSize(sq_mi),DistrictPopulation,DistrictPopulationDensity,BuildingCount,BuildingDensity,County,DeputyStateFireMarshalDistrict,FireRiskReductionDistrict,X,Y,FireServiceCasualties
+Adair RFPD,Rural,Combo,1,13,14,19,"1,964",103,"1,068",56,Benton,6,B,-123.225892,44.686049,0
+Adrian RFPD,Null,Null,Null,Null,0,293.7,"1,316",5,"1,644",6,Malheur,21,G,-117.148445,43.628036,0
+Albany FD,Combination,Career,75,0,75,83.6,"61,156",810,"31,680",379,Linn,6,B,-123.064917,44.617257,1
+Amity Fire Dist.,Rural,Combo,4,37,41,69.1,"4,213",61,"3,444",50,Yamhill,5,B,-123.212732,45.043743,0
+Ashland Fire & Rescue,Municipal,Career,30,0,30,6.6,"21,786","3,330","11,352","1,711",Jackson,14,F,-122.71452,42.196459,0
+Astoria FD,Municipal,Combo,12,6,18,10.2,"10,385","1,021","4,794",470,Clatsop,1,A,-123.810558,46.187953,0
+Aumsville RFPD,Rural,Combo,5,33,38,24.4,"7,347",303,"4,379",179,Marion,6,B,-122.868184,44.851263,0
+Aurora RFPD,Rural,Combo,8,20,28,39.8,"6,468",163,"4,841",122,Marion,6,B,-122.775082,45.276105,0
+Azalea RFPD,Null,Null,0,8,8,9.8,475,49,"1,051",108,Douglas,11,C,-123.262363,42.78678,0
+Baker City FD,Null,Combo,10,7,17,7.2,"10,237","1,919","5,982",829,Baker,23,G,-117.832634,44.77463,0
+Bandon RFPD,Rural,Combo,2,20,22,91.7,"4,320",47,"7,343",80,Coos,9,C,-124.377389,43.093638,0
+Bay City FD,Municipal,Combo,2,20,22,2,"1,393",701,883,450,Tillamook,4,A,-123.888014,45.520836,0
+Bend FD,Combination,Career,107,0,107,165.7,"106,471",790,"55,814",337,Deschutes,16,E,-121.309047,44.05672,1
+Black Butte Ranch RFPD,Rural,Combo,8,9,17,3,188,64,"1,233",412,Deschutes,16,E,-121.655202,44.362183,0
+Blodgett-Summit RFPD,Rural,Volunteer,0,8,8,31.9,429,13,516,16,Benton,6,B,-123.529919,44.608826,0
+Klamath Co. Fire Dist. 5,Rural,Combo,1,12,13,56.2,"1,179",21,"1,207",21,Klamath,15,F,-121.430824,42.315015,0
+Boardman Fire & Rescue Dist.,Rural,Combo,21,10,31,313.8,"5,669",18,"2,433",8,Morrow,19,D,-119.858295,45.733297,0
+Bonanza RFPD,Rural,Combo,3,28,31,142.5,"1,186",8,"1,718",12,Klamath,15,F,-121.388026,42.191399,0
+Brookings Fire & Rescue,Rural,Combo,2,23,25,27.7,"8,140",300,"4,915",177,Curry,12,C,-124.286477,42.061626,0
+Brownsville RFPD,Rural,Combo,1,23,24,70.1,"3,297",48,"3,530",50,Linn,6,B,-122.984463,44.402647,0
+Burns FD,Null,Combo,2,12,14,4.3,"2,855",670,"2,229",523,Harney,21,G,-119.062629,43.591623,1
+Butte Falls VFD,Null,Volunteer,0,18,18,0.4,444,"1,146",388,995,Jackson,14,F,-122.569338,42.542012,0
+Canby Fire Dist.,Rural,Combo,25,28,53,49.5,"24,281",496,"11,559",233,Clackamas,3,A,-122.672488,45.236777,0
+Cannon Beach RFPD,Rural,Combo,10,19,29,4.9,"1,966",409,"2,712",554,Clatsop,1,A,-123.968531,45.780639,0
+Canyon City FD,Municipal,Volunteer,0,10,10,1.4,653,470,447,321,Grant,21,G,-118.949507,44.393119,0
+Canyonville South Umpqua FD,Rural,Volunteer,0,26,26,10.6,"2,369",223,"1,813",171,Douglas,11,C,-123.281843,42.930247,0
+New Carlton Fire Dist.,Rural,Combo,1,23,24,36.4,"3,519",97,"2,289",63,Yamhill,5,B,-123.141649,45.290257,0
+Charleston RFPD,Null,Combo,8,19,27,5.2,"3,431",653,"2,709",517,Coos,9,C,-124.32352,43.335178,0
+Chemult RFPD,Null,Combo,1,17,18,43.7,310,7,854,20,Klamath,15,F,-121.855799,43.378133,0
+Chiloquin Fire & Rescue,Rural,Combo,8,24,32,105.6,"2,969",28,"3,187",30,Klamath,15,F,-121.733688,42.588294,0
+Christmas Valley RFPD,Rural,Volunteer,0,6,6,11.3,560,50,839,74,Lake,15,F,-120.706583,43.236913,0
+Clackamas Co. Fire Dist. 1,Rural,Combo,309,29,338,225.7,"216,644",967,"103,924",461,Clackamas,3,A,-122.482053,45.349738,12
+Clatskanie RFPD,Rural,Combo,18,10,28,136.7,"6,309",46,"6,206",45,Columbia,1,A,-123.174856,46.092342,0
+Cloverdale RFPD,Rural,Combo,4,20,24,40.3,"2,400",61,"2,787",69,Deschutes,16,E,-121.453753,44.268043,0
+Coburg RFPD,Rural,Volunteer,0,5,5,36.6,"2,883",78,"2,222",61,Lane,8,C,-123.064985,44.157668,0
+Colton RFPD,Rural,Combo,2,16,18,37,"3,221",88,"2,891",78,Clackamas,3,A,-122.412668,45.16435,0
+South Gilliam Co. RFPD,Rural,Volunteer,0,11,11,791.1,"1,051",1,"1,666",2,Gilliam,19,D,-119.998311,45.282885,0
+Coos Bay Fire & Rescue,Municipal,Combo,16,6,22,18.7,"15,847",900,"8,688",464,Coos,9,C,-124.232689,43.378947,0
+Coquille FD,Municipal,Combo,19,17,36,54.5,"4,045",116,"4,869",89,Coos,9,C,-124.182952,43.180307,2
+Cornelius FD,Combination,Combo,7,37,44,25.7,"14,362",637,"5,540",216,Washington,3,A,-123.046704,45.520179,0
+Corvallis FD,Combination,Combo,75,15,90,55.4,"60,821","1,249","24,053",434,Benton,6,B,-123.277738,44.569061,0
+Cove RFPD,Rural,Volunteer,0,16,16,36.3,"1,349",37,"1,570",43,Union,23,G,-117.840678,45.33525,0
+Glendale RFPD,Rural,Combo,12,6,18,7.3,698,95,"1,342",184,Douglas,11,C,-123.387356,42.745038,0
+Crescent RFPD,Rural,Combo,4,14,18,15.5,"1,459",95,"1,597",103,Klamath,15,F,-121.595314,43.569584,0
+Dallas FD,Municipal,Combo,15,16,31,4.9,"17,643","3,701","6,541","1,345",Polk,5,B,-123.312903,44.92215,0
+SW Polk Co. RFPD,Rural,Combo,19,11,30,122.6,"7,039",58,"6,933",57,Polk,5,B,-123.219739,44.959233,0
+Dayton Fire Dist.,Rural,Volunteer,0,35,35,7.7,376,692,"3,538",459,Yamhill,5,B,-123.100306,45.056018,1
+Dayville FD,Municipal,Volunteer,0,7,7,0.5,125,260,171,356,Grant,21,G,-119.531734,44.466228,0
+Depoe Bay RFPD,Rural,Combo,15,0,15,9.4,"4,356",466,"4,329",461,Lincoln,4,B,-124.039934,44.855942,0
+Dexter RFPD,Rural,Combo,3,8,11,17.8,"2,208",127,"1,884",106,Lane,8,C,-122.834681,43.913518,0
+Drakes Crossing RFPD,Rural,Volunteer,0,20,20,22.3,605,27,633,28,Marion,6,B,-122.662324,44.932788,0
+Dufur VFD,Municipal,Volunteer,0,13,13,0.6,622,"1,082",483,829,Wasco,18,D,-121.128905,45.453053,0
+Dundee FD,Combination,Combo,5,24,29,11.6,"3,238",403,"2,422",208,Yamhill,5,B,-123.014355,45.278892,0
+Echo RFPD,Rural,Volunteer,0,24,24,405.6,"1,297",3,"1,102",3,Umatilla,19,D,-119.125828,45.669539,0
+Elgin RFPD,Rural,Volunteer,0,11,11,73.2,"2,411",34,"2,424",33,Union,23,G,-117.860531,45.574746,0
+Elsie-Vinemaple RFPD,Rural,Volunteer,0,17,17,20.6,733,36,752,37,Clatsop,1,A,-123.573063,45.869563,0
+Enterprise FD,Null,Combo,1,18,19,106.1,"3,136",30,"2,939",28,Wallowa,23,G,-117.277079,45.457491,0
+Estacada RFPD 69,Rural,Combo,13,40,53,108.6,"13,430",256,"7,664",71,Clackamas,3,A,-122.295998,45.275261,0
+Evans Valley Fire Dist. 6,Rural,Combo,3,20,23,30.9,"2,815",92,"4,806",156,Jackson,14,F,-123.157696,42.552162,0
+Fair Oaks RFPD,Rural,Volunteer,0,15,15,9.4,"1,175",123,"1,430",153,Douglas,11,C,-123.236789,43.390169,0
+Falls City FD,Municipal,Volunteer,0,21,21,1.2,"1,102",943,639,533,Polk,5,B,-123.437555,44.864778,0
+Forest Grove Fire & Rescue,Combination,Combo,24,48,72,81.2,"27,019",390,"12,936",159,Washington,3,A,-123.109791,45.524447,0
+Fossil VFD,Municipal,Volunteer,0,8,8,0.8,463,570,483,612,Wheeler,20,E,-120.214675,44.998113,0
+Gardiner RFPD,Rural,Volunteer,0,12,12,0.3,163,606,159,591,Douglas,11,C,-124.11101,43.72976,0
+Garibaldi FD,Combination,Combo,2,15,17,17.4,832,85,"2,370",136,Tillamook,4,A,-123.910899,45.560456,0
+Gaston RFPD,Rural,Combo,3,33,36,55.5,"3,508",63,"3,282",59,Washington,3,A,-123.215173,45.477055,0
+Gates RFPD,Rural,Combo,1,10,11,9.6,863,81,905,94,Marion,6,B,-122.427006,44.743303,0
+Gearhart VFD,Combination,Combo,2,27,29,17.9,"1,798",249,"3,281",183,Clatsop,1,A,-123.916992,46.029344,0
+Glide RFPD,Rural,Combo,3,25,28,29,"2,994",102,"2,725",94,Douglas,11,C,-123.112303,43.248647,0
+Gold Beach FD,Rural,Volunteer,0,30,30,6,"3,224",532,"2,732",453,Curry,12,C,-124.412189,42.377358,0
+Grants Pass Fire & Rescue,Municipal,Combo,61,2,63,11.7,"39,546","3,391","18,049","1,544",Josephine,13,F,-123.331682,42.433352,0
+South Sherman Fire & Rescue,Null,Null,Null,Null,0,392.2,403,1,834,2,Sherman,18,D,-120.725812,45.248307,0
+Greenacres RFPD,Rural,Volunteer,0,10,10,10.9,"1,030",95,952,87,Coos,9,C,-124.219132,43.253267,0
+Gresham Fire & Emerg. Srvcs.,Municipal,Career,102,0,102,33.8,"148,206","4,383","46,258","1,368",Multnomah,3,A,-122.441226,45.502013,1
+Halsey-Shedd RFPD,Rural,Combo,2,25,27,106,"2,705",25,"2,989",28,Linn,6,B,-123.134003,44.423065,0
+Hamlet VFD,Null,Null,Null,Null,0,15.4,290,19,322,21,Clatsop,1,A,-123.765463,45.873657,0
+Harbor RFPD,Rural,Combo,3,13,16,3.9,"4,209","1,105","3,597",932,Curry,12,C,-124.253861,42.045654,0
+Harrisburg Fire & Rescue,Rural,Combo,4,24,28,86.3,"5,007",58,"3,752",43,Linn,6,B,-123.09172,44.271914,0
+Hauser RFPD,Rural,Volunteer,0,16,16,14.6,"1,392",95,"1,453",100,Coos,9,C,-124.20616,43.522506,0
+Heppner FD,Rural,Volunteer,0,24,24,1.2,"1,145",962,"2,072","1,687",Morrow,19,D,-119.513721,45.351139,0
+Umatilla Co. Fire Dist. 1,Rural,Combo,47,29,76,162,"31,452",193,"14,161",87,Umatilla,19,D,-119.223383,45.835927,2
+Hillsboro Fire & Rescue,Municipal,Career,112,0,112,26.1,"110,219","4,246","42,389","1,627",Washington,3,A,-122.936455,45.527687,0
+Hines FD,Null,Volunteer,0,9,9,2.1,"1,653",787,978,463,Harney,21,G,-119.082379,43.558374,1
+Hoodland Fire Dist. 74,Rural,Combo,10,25,35,42.9,"5,830",136,"4,478",104,Clackamas,3,A,-121.962563,45.353036,0
+Hood River FD,Municipal,Combo,17,9,26,3.3,"8,587","2,611","3,493","1,052",Hood River,18,D,-121.524785,45.708408,0
+Hubbard RFPD,Rural,Combo,4,36,40,7.4,"4,546",609,"1,976",266,Marion,6,B,-122.791186,45.18869,0
+Huntington FD,Municipal,Volunteer,0,10,10,0.7,484,666,419,570,Baker,23,G,-117.266781,44.35011,0
+Idanha-Detroit RFPD,Rural,Combo,2,30,32,4.6,344,66,512,112,Marion,6,B,-122.074834,44.697855,0
+Illinois Valley Fire Dist.,Rural,Combo,10,37,47,135.8,"9,053",67,"8,208",60,Josephine,13,F,-123.522158,42.140177,0
+Imbler RFPD,Rural,Volunteer,0,12,12,68.1,"1,391",20,"2,113",31,Union,23,G,-117.995233,45.477987,0
+Ione RFPD,Rural,Volunteer,0,24,24,454.7,724,2,"1,127",2,Morrow,19,D,-119.858438,45.46591,0
+Irrigon RFPD,Rural,Volunteer,Null,15,15,14,"3,978",293,"2,184",156,Morrow,19,D,-119.515203,45.885252,0
+Jackson Co. Fire Dist. 3,Rural,Combo,52,10,62,171.7,"57,977",342,"44,477",259,Jackson,14,F,-122.882211,42.473788,1
+Jackson Co. Fire Dist. 5,Rural,Combo,24,20,44,105.3,"18,604",171,"15,948",151,Jackson,14,F,-122.802969,42.225975,0
+Jacksonville FD,Municipal,Combo,1,7,8,1.9,"3,077","1,641","1,982","1,048",Jackson,14,F,-122.969251,42.312666,0
+Jefferson RFPD,Rural,Combo,6,25,31,85.7,"8,548",101,"6,308",74,Marion,6,B,-123.037795,44.694485,0
+John Day FD,Combination,Combo,1,15,16,25,"1,668",96,"2,611",104,Grant,21,G,-118.955491,44.418644,0
+Joseph FD,Rural,Volunteer,0,18,18,70.5,"1,945",28,"2,767",39,Wallowa,23,G,-117.144647,45.342081,0
+Junction City Fire & Rescue,Rural,Combo,8,25,33,66.8,"11,196",170,"7,001",105,Lane,8,C,-123.241256,44.220837,0
+Juniper Flat RFPD,Rural,Volunteer,0,17,17,91.3,352,4,679,7,Wasco,18,D,-121.225276,45.145498,0
+Keizer Fire Dist.,Rural,Combo,42,8,50,10.2,"36,020","3,527","15,071","1,475",Marion,6,B,-123.036409,45.005392,0
+Keno RFPD,Rural,Combo,2,20,22,43.9,"3,160",73,"2,762",63,Klamath,15,F,-121.894147,42.119807,0
+Knappa Fire Dist.,Rural,Combo,2,28,30,67.7,"4,106",60,"2,848",42,Clatsop,1,A,-123.539081,46.168811,0
+Lafayette FD,Municipal,Combo,1,20,21,0.9,"4,633","5,521","1,552","1,778",Yamhill,5,B,-123.111554,45.246218,0
+La Grande FD,Municipal,Career,18,0,18,4.6,"13,163","2,870","5,956","1,291",Union,23,G,-118.086771,45.3245,1
+La Grande RFPD,Rural,Combo,1,22,23,85.1,"3,506",41,"3,501",41,Union,23,G,-118.008427,45.330242,0
+Lake Oswego FD,Municipal,Career,45,0,45,12.9,"41,409","3,559","18,502","1,436",Clackamas,3,A,-122.700341,45.413001,0
+Lakeside RFPD,Rural,Combo,1,20,21,74.8,"2,145",56,"2,698",36,Coos,9,C,-124.183922,43.623762,0
+Lakeview FD,Rural,Volunteer,0,21,21,63,"2,075",33,"1,504",24,Lake,15,F,-120.388857,42.297429,0
+Langlois RFPD,Rural,Volunteer,0,8,8,30.2,583,19,880,29,Curry,12,C,-124.401626,42.93693,0
+La Pine RFPD,Rural,Combo,32,20,52,94.2,"18,010",194,"15,331",163,Deschutes,16,E,-121.597502,43.606409,1
+Lebanon Fire Dist.,Rural,Combo,33,39,72,134.2,"32,438",245,"23,441",175,Linn,6,B,-122.856825,44.534403,0
+Lewis & Clark RFPD,Rural,Combo,2,25,27,14.4,"1,409",102,"2,017",140,Clatsop,1,A,-123.832549,46.086403,0
+Lexington FD,Municipal,Volunteer,0,3,3,0.5,202,439,213,463,Morrow,19,D,-119.688042,45.446457,0
+Long Creek FD,Null,Volunteer,0,9,9,1,159,159,Null,0,Grant,21,G,-119.104654,44.713044,0
+Lostine FD,Municipal,Volunteer,0,5,5,0.3,224,807,240,857,Wallowa,23,G,-117.429465,45.486737,0
+Lowell RFPD,Rural,Combo,4,21,25,23.3,"1,983",83,"1,768",76,Lane,8,C,-122.77664,43.948501,0
+Lyons RFD,Rural,Volunteer,0,25,25,26.4,"2,187",82,"2,679",101,Linn,6,B,-122.640608,44.749307,0
+Malin RFPD,Rural,Volunteer,0,15,15,69.7,"1,422",21,"1,414",20,Klamath,15,F,-121.400726,42.044422,0
+Marion Co. Fire Dist. 1,Rural,Combo,49,34,83,87.7,"54,060",617,"26,374",301,Marion,6,B,-122.879882,44.929134,0
+Maupin FD,Municipal,Volunteer,0,11,11,1.7,458,270,472,273,Wasco,18,D,-121.090337,45.171913,0
+Medford FD,Combination,Career,75,0,75,57.1,"88,101","1,694","50,180",880,Jackson,14,F,-122.853336,42.337062,0
+Merrill RFPD,Rural,Volunteer,0,30,30,59.1,"1,673",29,"1,620",27,Klamath,15,F,-121.61884,42.031841,0
+Mill City RFPD,Rural,Combo,5,17,22,6.6,"2,242",329,"1,751",265,Linn,6,B,-122.478532,44.747847,0
+Millington RFPD,Rural,Combo,3,28,31,10.9,"3,033",283,"2,359",217,Coos,9,C,-124.180067,43.344441,0
+Milton-Freewater FD,Null,Combo,1,20,21,278.1,"11,550",41,"2,651",10,Umatilla,19,D,-118.390984,45.934091,0
+Mitchell VFD,Null,Volunteer,0,4,4,1.3,128,103,204,161,Wheeler,20,E,-120.153655,44.570204,0
+Molalla Fire Dist.,Rural,Combo,15,21,36,101.4,"19,203",189,"11,681",115,Clackamas,3,A,-122.565105,45.131755,0
+Monitor RFPD,Rural,Volunteer,0,19,19,35.9,"2,623",73,"2,579",72,Marion,6,B,-122.7734,45.113377,0
+Monroe RFPD,Rural,Combo,1,25,26,86.2,"3,573",42,"3,227",37,Benton,6,B,-123.301004,44.265331,0
+Monument FD,Null,Volunteer,0,7,7,0.5,103,198,146,278,Grant,21,G,-119.420864,44.821005,0
+Moro FD,Null,Null,Null,Null,0,0.5,366,755,281,569,Sherman,18,D,-120.733457,45.483748,0
+Mosier Fire Dist.,Rural,Combo,1,14,15,22.7,"1,140",50,"1,075",47,Wasco,18,D,-121.379692,45.665907,0
+Mt. Vernon FD,Null,Combo,2,12,14,174.2,545,39,"1,181",7,Grant,21,G,-119.11317,44.416859,0
+Corbett Fire Dist. 14,Rural,Combo,1,31,32,81.2,"3,727",45,"3,065",38,Multnomah,3,A,-122.252709,45.512046,0
+Myrtle Creek FD,Municipal,Volunteer,0,27,27,19.3,"3,466",217,"3,019",156,Douglas,11,C,-123.225802,43.02896,0
+Myrtle Point FD,Rural,Combo,4,12,16,1.6,"2,503","1,580","2,627","1,648",Coos,9,C,-124.137513,43.017433,0
+Nestucca RFPD,Rural,Combo,13,40,53,90.4,"3,877",329,"6,106",68,Tillamook,4,A,-123.708747,45.283379,0
+New Pine Creek RFPD,Null,Null,Null,Null,0,12.2,131,11,250,21,Lake,15,F,-120.309939,42.034945,0
+Newport FD,Combination,Combo,14,15,29,23.4,"10,767",545,"6,951",297,Lincoln,4,B,-124.052319,44.624602,0
+North Bay RFPD,Null,Combo,2,37,39,32,"2,262",71,"2,392",75,Coos,9,C,-124.199601,43.442577,0
+North Bend FD,Municipal,Combo,18,27,45,5.1,"10,200","2,006","4,377",861,Coos,9,C,-124.236456,43.407451,0
+North Powder RFD,Rural,Volunteer,0,21,21,68.3,122,2,991,14,Union,23,G,-117.816159,44.96305,0
+Nyssa FD,Combination,Volunteer,0,20,20,69.1,"3,307",76,"3,183",46,Malheur,21,G,-117.060551,43.878465,0
+Oakland RFPD,Rural,Volunteer,0,20,20,13.3,"1,482",111,"1,355",102,Douglas,11,C,-123.164079,43.45474,0
+Oakridge FD,Municipal,Combo,4,16,20,2.2,"3,199","1,448","3,845","1,753",Lane,8,C,-122.463838,43.745017,0
+Ontario FD,Municipal,Combo,31,1,32,6.1,"11,987","1,987","4,888",804,Malheur,21,G,-116.978083,44.024937,0
+Ontario RFPD,Rural,Combo,Null,Null,0,50.9,"3,288",65,"2,933",58,Malheur,21,G,-116.982602,43.985516,0
+Ophir RFPD,Rural,Volunteer,0,6,6,61.5,786,13,826,13,Curry,12,C,-124.317954,42.589986,0
+Paisley VFD,Null,Combo,1,12,13,119,323,3,621,5,Lake,15,F,-120.473781,42.629855,0
+Parkdale RFPD,Rural,Combo,2,24,26,32,"3,063",94,"3,012",94,Hood River,18,D,-121.588701,45.53961,0
+Pendleton Fire & Amb.,Municipal,Combo,21,42,63,25.1,"17,351",769,"7,772",310,Umatilla,19,D,-118.757399,45.676251,0
+Pilot Rock RFPD,Rural,Combo,1,18,19,358.6,"1,749",5,"1,744",5,Umatilla,19,D,-119.203805,45.436006,0
+Pine Valley RFPD,Null,Null,Null,Null,0,46.2,916,20,"1,665",36,Baker,23,G,-117.093659,44.891397,0
+Portland Bureau of Fire,Municipal,Career,668,0,668,140.1,"664,344","4,725","243,277","1,737",Multnomah,3,A,-122.649919,45.537197,27
+Powers FD,Municipal,Combo,1,10,11,0.7,701,"1,074",572,874,Coos,9,C,-124.073692,42.886073,0
+Prairie City FD,Municipal,Volunteer,0,15,15,118.8,794,9,"1,300",11,Grant,21,G,-118.709733,44.46111,0
+Prospect RFPD,Rural,Volunteer,0,12,12,36.8,982,27,"1,616",44,Jackson,14,F,-122.523838,42.737347,0
+Reedsport FD,Municipal,Volunteer,0,36,36,2.2,"4,273","1,878","2,582","1,154",Douglas,11,C,-124.122062,43.693795,0
+Riddle FD,Rural,Volunteer,0,22,22,15.7,"2,278",147,"1,801",115,Douglas,11,C,-123.372614,42.93536,0
+Rockaway FD,Null,Combo,3,10,13,2.6,"1,788",708,"2,668","1,044",Tillamook,4,A,-123.943687,45.61026,0
+Rogue River Fire Dist. 1,Null,Combo,14,4,18,78.5,"8,223",105,"8,836",113,Jackson,14,F,-123.140398,42.425849,11
+Roseburg FD,Municipal,Career,39,0,39,11,"24,392","2,264","9,724",884,Douglas,11,C,-123.351761,43.223275,0
+Salem FD,Combination,Career,162,0,162,78.4,"180,653","2,409","74,667",953,Marion,6,B,-123.024467,44.923108,4
+Sandy RFPD 72,Rural,Combo,17,23,40,5.3,"22,137","1,807","11,496","2,160",Clackamas,3,A,-122.223109,45.388263,1
+Scappoose RFPD,Rural,Combo,18,14,32,97.1,"14,079",146,"8,495",87,Columbia,1,A,-122.874915,45.674511,1
+Scio RFPD,Rural,Combo,1,30,31,100.9,"5,520",56,"7,079",70,Linn,6,B,-122.826445,44.675063,0
+Seal Rock RFPD,Rural,Combo,4,27,31,16,"2,707",172,"2,682",168,Lincoln,4,B,-124.064973,44.485503,0
+Seaside Fire & Rescue,Combination,Combo,8,23,31,11.4,"7,530",738,"5,203",458,Clatsop,1,A,-123.920324,45.989486,0
+Seneca VFD,Null,Combo,8,8,16,0.8,158,194,230,282,Grant,21,G,-118.97663,44.135148,2
+Jackson Co. Fire Dist. 4,Rural,Combo,7,10,17,37.4,"5,164",140,"6,387",171,Jackson,14,F,-122.822377,42.594489,0
+Sheridan Fire Dist.,Rural,Combo,15,12,27,101.3,"8,519",86,"4,857",48,Yamhill,5,B,-123.365812,45.123921,0
+Siletz RFPD,Rural,Combo,2,8,10,39.4,"2,587",66,"2,122",54,Lincoln,4,B,-123.828682,44.733373,0
+Silver Lake RFPD,Rural,Volunteer,0,15,15,116.7,237,2,464,4,Lake,15,F,-121.03078,43.13325,0
+Silverton RFPD,Rural,Combo,7,63,70,108.4,"17,814",163,"9,856",91,Marion,6,B,-122.745829,44.982355,0
+Sisters-Camp Sherman RFPD,Rural,Combo,10,30,40,54.9,"6,838",130,"4,922",90,Deschutes,16,E,-121.536852,44.313757,0
+Mapleton FD,Null,Null,Null,Null,0,20.9,843,40,715,34,Lane,8,C,-123.861368,44.039962,0
+Spray VFD,Municipal,Volunteer,0,11,11,15.2,181,434,379,25,Wheeler,20,E,-119.792742,44.833495,0
+St. Paul Fire Dist.,Rural,Combo,1,31,32,45,"1,352",31,"1,296",29,Marion,6,B,-122.962108,45.212965,0
+Stayton Fire Dist.,Rural,Combo,14,35,49,76.5,"12,670",165,"7,771",102,Marion,6,B,-122.763371,44.759505,0
+Klamath Co. Fire Dist. 4,Rural,Volunteer,0,26,26,5.4,"1,990",375,"1,184",219,Klamath,15,F,-121.806807,42.184447,0
+Sublimity RFPD,Rural,Combo,2,38,40,45.6,"4,537",100,"2,213",49,Marion,6,B,-122.743219,44.863073,0
+Klamath Co. Fire Dist. 1,Rural,Career,65,0,65,195,"49,623",257,"25,443",130,Klamath,15,F,-121.689998,42.137298,0
+Sumner RFPD,Rural,Volunteer,0,35,35,16.9,743,44,967,57,Coos,9,C,-124.150472,43.299518,0
+Sumpter FD,Null,Null,Null,Null,0,2.2,211,98,474,218,Baker,23,G,-118.197463,44.743542,0
+Sunriver FD,Rural,Combo,12,2,14,6.5,"1,884",292,"3,663",561,Deschutes,16,E,-121.436866,43.892955,0
+Sutherlin FD,Municipal,Combo,5,25,30,6.6,"8,729","1,327","3,851",585,Douglas,11,C,-123.323434,43.388492,0
+Sweet Home Fire & Amb. Dist.,Rural,Combo,20,28,48,154.3,"15,860",104,"13,630",88,Linn,6,B,-122.666266,44.393587,0
+Swisshome-Deadwood RFPD,Rural,Volunteer,0,10,10,47.1,439,9,719,15,Lane,8,C,-123.752127,44.090033,0
+North Lincoln Fire & Rescue Dist. 1,Rural,Combo,26,22,48,50.1,"13,768",276,"12,844",256,Lincoln,4,B,-124.002065,45.049559,0
+Tangent RFPD,Rural,Volunteer,0,20,20,44.8,"2,193",49,"2,259",50,Linn,6,B,-123.088533,44.549948,0
+Mid-Columbia Fire & Rescue,Rural,Career,35,0,35,108.1,"21,105",196,"11,294",105,Wasco,18,D,-121.258785,45.597095,2
+Thomas Creek-Westside RFPD,Rural,Volunteer,0,17,17,123.4,954,8,"1,560",13,Lake,15,F,-120.474556,42.14533,0
+McKenzie Fire & Rescue,Rural,Combo,8,35,43,35.2,"5,347",149,"6,004",170,Lane,8,C,-122.817084,44.0606,0
+Tillamook Fire Dist.,Rural,Combo,2,24,26,74.2,"12,154",166,"8,662",117,Tillamook,4,A,-123.818909,45.435076,0
+Toledo FD,Combination,Combo,4,25,29,51.9,"3,658",115,"1,793",35,Lincoln,4,B,-123.933714,44.619342,0
+Tri-City RFPD 4,Rural,Volunteer,0,29,29,6.8,"4,216",623,"2,442",360,Douglas,11,C,-123.332184,42.979965,0
+Turner Fire Dist.,Rural,Combo,9,30,39,37.1,"6,857",189,"4,809",130,Marion,6,B,-122.964991,44.822549,0
+Ukiah FD,Null,Null,Null,Null,0,0.2,165,750,Null,0,Umatilla,19,D,-118.932539,45.137058,0
+Umatilla RFPD,Rural,Combo,8,4,12,29,"8,769",310,"2,468",85,Umatilla,19,D,-119.314888,45.908303,0
+Union Emerg. Srvcs.,Null,Null,Null,Null,0,Null,Null,Null,Null,Null,Union,23,G,-117.86067,45.208227,0
+Vale FD,Combination,Combo,5,24,29,1.2,"1,905","1,640","4,463","3,817",Malheur,21,G,-117.245957,43.981309,0
+Vernonia RFPD,Null,Null,3,15,18,113.4,"3,634",32,"2,682",24,Columbia,3,A,-123.18019,45.85804,0
+Central Oregon Coast Fire & Rescue,Rural,Combo,6,11,17,35.9,"3,744",106,"3,143",88,Lincoln,4,B,-123.940787,44.40403,0
+Wallowa FD,Rural,Volunteer,0,20,20,61.3,"1,239",21,"1,681",27,Wallowa,23,G,-117.528553,45.570467,0
+Warm Springs Fire & Safety,Tribal,Combo,20,1,21,"1,040.30","3,191",3,"1,441",1,Jefferson,17,E,-121.452791,44.869887,0
+Warrenton FD,Null,Null,3,30,33,26.5,"6,661",310,"4,310",163,Clatsop,1,A,-123.923767,46.171675,0
+Westport-Wauna RFPD,Rural,Combo,1,8,9,2.5,566,224,531,211,Clatsop,1,A,-123.385295,46.132041,0
+West Side RFPD,Rural,Combo,2,5,7,19.4,"5,489",284,"3,957",204,Hood River,18,D,-121.571441,45.676893,0
+Williams RFPD,Rural,Combo,4,10,14,31.9,"2,179",70,"2,164",68,Josephine,13,F,-123.287595,42.218796,0
+Winchester Bay RFPD,Null,Null,Null,Null,0,0.7,280,376,321,442,Douglas,11,C,-124.172751,43.673946,0
+Wolf Creek RFPD,Rural,Combo,1,3,4,31.9,333,10,528,17,Josephine,13,F,-123.334822,42.69574,0
+Woodburn Fire Dist.,Rural,Combo,18,35,53,73.7,"34,870",484,"12,123",164,Marion,6,B,-122.907269,45.133505,2
+Yachats RFPD,Rural,Combo,8,4,12,14.6,"2,599",179,"2,875",197,Lincoln,4,B,-123.993567,44.297985,0
+Yamhill FPD,Rural,Combo,1,34,35,72.8,"3,958",54,"3,512",48,Yamhill,5,B,-123.230731,45.355837,0
+Crooked River Ranch RFPD,Rural,Combo,6,20,26,19.8,"5,034",260,"4,287",217,Jefferson,17,E,-121.277865,44.384841,0
+Fairview RFPD,Rural,Volunteer,0,11,11,5.1,384,76,444,87,Coos,9,C,-124.082174,43.219663,0
+Mohawk Valley RFD,Rural,Combo,4,26,30,26.7,"3,102",116,"3,210",120,Lane,8,C,-122.822223,44.276001,0
+Alsea RFPD,Null,Null,Null,Null,0,82.2,980,12,"1,130",14,Benton,6,B,-123.725582,44.381754,0
+Spring Valley RFPD,Null,Null,Null,Null,Null,22.9,"1,287",57,Null,0,Marion,Null,Null,Null,Null,Null
+Applegate Valley RFPD,Rural,Combo,12,30,42,185.9,"5,231",28,"8,522",46,Jackson,14,F,-122.993545,42.228704,0
+Elkton RFPD,Rural,Volunteer,0,15,15,16.8,565,34,849,50,Douglas,11,C,-123.626143,43.615305,0
+Mist-Birkenfeld RFPD,Rural,Combo,2,18,20,108.6,683,6,954,9,Columbia,1,A,-123.264311,45.982908,0
+Hoskins-Kings Valley RFPD,Null,Null,Null,Null,0,29,362,13,577,20,Benton,6,B,-123.517777,44.729746,0
+Bly RFPD,Null,Volunteer,0,9,9,6.5,238,37,451,70,Klamath,15,F,-121.048148,42.399117,0
+Milo RFPD,Null,Null,Null,Null,0,5.4,190,35,326,60,Douglas,11,C,-123.076617,42.938442,0
+Tenmile RFPD,Rural,Combo,2,6,8,15.4,"1,285",84,"1,509",98,Douglas,11,C,-123.603097,43.073232,0
+Scottsburg RFD,Rural,Volunteer,0,14,14,4.9,249,50,451,91,Douglas,11,C,-123.73182,43.659955,0
+Lookingglass RFD,Rural,Volunteer,0,17,17,27.6,"1,374",66,"1,671",60,Douglas,11,C,-123.558529,43.179462,0
+Lake Creek RFD,Null,Combo,1,12,13,105.9,748,7,"1,445",14,Jackson,14,F,-122.592585,42.410685,0
+Days Creek RFD,Null,Volunteer,0,12,12,6.9,329,48,635,93,Douglas,11,C,-123.162922,42.97232,0
+Lake Creek Fire & Rescue,Null,Null,Null,Null,0,8.2,186,23,566,69,Lane,8,C,Null,Null,0
+Colestin RFPD,Rural,Volunteer,0,16,16,19.4,159,8,333,17,Jackson,14,F,-122.643029,42.040274,0
+North Gilliam Co. RFPD,Rural,Combo,1,11,12,434,962,2,985,2,Gilliam,19,D,-120.214774,45.612046,0
+Lorane RFPD,Rural,Volunteer,Null,6,6,11.2,400,37,646,58,Lane,8,C,-123.241384,43.842725,0
+Upper Mckenzie RFPD,Rural,Combo,1,13,14,9.2,714,103,"1,279",139,Lane,8,C,-122.216305,44.178572,0
+Agness Illahe RFPD,Rural,Volunteer,0,20,20,29.5,146,5,239,8,Curry,12,C,-124.084257,42.561866,0
+Sixes RFPD,Rural,Volunteer,0,18,18,31.2,314,10,539,17,Curry,12,C,-124.506993,42.836968,0
+Sauvie Island RFPD 30,Rural,Volunteer,0,22,22,45.5,917,20,"1,139",25,Multnomah,3,A,-122.786379,45.762157,0
+Winchuck RFPD,Rural,Volunteer,0,11,11,7.5,367,49,351,47,Curry,12,C,-124.191636,42.015806,0
+Camas Valley RFD,Rural,Volunteer,0,14,14,9.7,369,38,861,89,Douglas,11,C,-123.690597,43.037587,0
+Klamath Co. Fire Dist. 3,Rural,Combo,5,7,12,228.1,"1,100",5,"1,518",7,Klamath,15,F,-121.456943,42.473307,0
+Polk Co Fire Dist. 1,Rural,Combo,20,50,70,171.2,"25,377",152,"10,134",59,Polk,5,B,-123.146146,44.842896,1
+Payette RFD-Oregon,Subscription,Volunteer,0,20,20,28.7,762,26,911,32,Malheur,21,G,-116.958903,44.141961,0
+Weiser RFPD Annex-Oregon,Null,Combo,2,23,25,13,340,26,430,33,Malheur,21,G,-116.992008,44.212039,0
+Baker RFPD,Null,Combo,2,8,10,59.7,"1,580",27,"1,927",32,Baker,23,G,-117.898763,44.815107,0
+Cape Ferrelo RFPD,Rural,Volunteer,0,23,23,15.5,"1,163",77,"1,418",91,Curry,12,C,-124.323364,42.137285,0
+North Sherman Co. RFPD,Null,Null,Null,Null,0,221.2,983,5,"1,160",5,Sherman,18,D,-120.658786,45.638133,0
+Tygh Valley RFPD,Rural,Volunteer,0,15,15,33.8,212,6,484,14,Wasco,18,D,-121.131899,45.260299,0
+Moro RFPD,Null,Volunteer,0,8,8,212.5,170,1,421,2,Sherman,18,D,-120.633076,45.471151,0
+Tiller RFD,Rural,Volunteer,0,14,14,5.5,103,19,314,57,Douglas,11,C,-122.961463,42.930149,0
+Tualatin Valley Fire & Rescue,Rural,Combo,576,38,614,381.7,"523,454","1,377","195,288",512,Washington,3,A,-122.989037,45.324403,4
+Dora-Sitkum RFPD,Null,Null,Null,Null,0,13.6,121,9,311,23,Coos,9,C,-123.88726,43.149883,0
+Bridge RFPD,Null,Volunteer,0,8,8,31.9,244,8,592,19,Coos,9,C,-123.990472,43.001507,0
+Kellogg RFD,Rural,Volunteer,0,15,15,15.1,544,37,799,53,Douglas,11,C,-123.50861,43.485329,0
+Umatilla Tribal FD,Tribal,Combo,10,8,18,247.7,"2,686",11,"1,949",8,Umatilla,19,D,-118.545879,45.646669,0
+Eagle Valley RFPD,Null,Null,Null,Null,0,43.7,527,16,871,20,Baker,23,G,-117.20685,44.78156,0
+Olney-Walluski Fire & Rescue,Rural,Volunteer,Null,8,8,32.9,"1,124",34,"1,064",32,Clatsop,1,A,-123.731962,46.0829,0
+Powder River RFPD,Rural,Volunteer,0,15,15,19.1,127,7,366,19,Baker,23,G,-118.124428,44.694528,0
+Keating RFPD,Null,Null,Null,Null,0,47.4,119,3,312,7,Baker,23,G,-117.573693,44.85483,0
+Lake Chinook Fire & Rescue,Rural,Combo,3,8,11,32.9,307,10,"1,207",37,Jefferson,17,E,-121.348244,44.550274,0
+Granite City FD,Null,Null,Null,Null,0,0.4,35,92,120,317,Grant,21,G,-118.418846,44.810252,0
+Netarts-Oceanside RFPD,Rural,Combo,4,20,24,3.9,"1,461",376,"1,799",458,Tillamook,4,A,-123.947398,45.438728,0
+Haines RFPD,Rural,Volunteer,Null,11,11,81.3,972,12,"1,227",15,Baker,23,G,-117.949056,44.91614,0
+Banks Fire Dist. 13,Rural,Combo,4,58,62,127.3,"5,862",46,"4,367",34,Washington,3,A,-123.189539,45.697637,0
+Greater Bowen Valley RFPD,Rural,Combo,1,7,8,80.4,260,3,387,5,Baker,23,G,-117.877711,44.678252,0
+Unity-Burnt River FD,Null,Volunteer,0,22,22,304,212,1,608,2,Baker,23,G,-118.035633,44.482187,0
+Philomath Fire & Rescue,Rural,Combo,12,20,32,59.9,"9,458",162,"6,191",103,Benton,6,B,-123.388455,44.515203,0
+Medical Springs RFPD,Subscription,Volunteer,Null,Null,0,44.9,55,1,245,5,Baker,23,G,-117.642824,44.947309,0
+Redmond Fire & Rescue,Null,Career,53,0,53,133.3,"49,128",380,"22,705",170,Deschutes,16,E,-121.199306,44.284729,0
+Columbia River Fire & Rescue,Rural,Combo,36,17,53,210.8,"29,828",146,"18,643",88,Columbia,1,A,-122.918839,45.965624,1
+Shaniko VFD,Municipal,Volunteer,0,5,5,0.5,31,64,110,221,Wasco,18,D,-120.752152,45.003653,0
+North Douglas Co. Fire & EMS,Rural,Combo,5,43,48,54.4,"3,841",71,"4,203",77,Douglas,11,C,-123.212311,43.607152,0
+South Lane Co. Fire & Rescue,Rural,Combo,24,12,36,135.4,"28,116",208,"17,049",126,Lane,8,C,-123.04688,43.837195,0
+Mt. Angel Fire Dist.,Rural,Combo,3,36,39,36.3,"5,197",143,"2,815",78,Marion,6,B,-122.798473,45.069921,0
+Pistol River VFD,Rural,Volunteer,0,9,9,19.6,272,14,361,18,Curry,12,C,-124.378507,42.276916,0
+Crook Co. Fire & Rescue,Rural,Combo,42,11,53,352.7,"24,894",73,"17,422",49,Crook,20,E,-120.875258,44.274328,0
+Cascade Locks Fire & EMS,Municipal,Combo,4,14,18,3,"1,379",455,710,234,Hood River,18,D,-121.871784,45.676473,0
+Oregon Outback RFPD,Null,Null,0,6,0,24.4,764,32,831,34,Klamath,15,F,-121.501849,43.569342,0
+Port Orford VFD,Null,Volunteer,0,12,12,7.6,"1,852",245,"1,841",244,Curry,12,C,-124.488444,42.754774,0
+West Valley Fire Dist.,Null,Null,0,5,5,61.8,"5,413",88,"3,983",64,Yamhill,5,B,-123.497186,45.124067,0
+Greensprings RFPD,Null,Volunteer,0,8,8,169.1,381,2,233,1,Jackson,14,F,-122.427,42.118212,0
+Central Cascades Fire & EMS,Rural,Combo,1,14,15,15.2,165,11,608,40,Klamath,15,F,-121.948382,43.529848,0
+Cedar Valley-N Bank RFPD,Null,Null,Null,Null,0,7.3,97,13,406,55,Curry,12,C,-124.336304,42.482952,0
+Rocky Point Fire & EMS,Null,Combo,2,30,32,34.1,352,11,431,13,Klamath,15,F,-122.126294,42.490911,0
+Nehalem Bay Fire & Rescue,Rural,Combo,5,10,15,24.6,"3,563",146,"4,923",200,Tillamook,4,A,-123.869862,45.720257,0
+Wamic RFPD,Rural,Combo,2,10,12,44.9,942,21,"1,569",35,Wasco,18,D,-121.294802,45.208637,0
+Wy'East Fire Dist.,Rural,Combo,2,29,31,27.3,"4,954",181,"3,414",125,Hood River,18,D,-121.538718,45.624475,0
+Union RFPD,Rural,Volunteer,0,9,9,51.6,"2,395",46,"2,095",41,Union,23,G,-117.856474,45.219917,0
+Eugene Springfield Fire,Combination,Career,309,0,309,61.8,"241,923","3,931","105,346","1,705",Lane,8,C,-123.122233,44.041508,0
+Alfalfa Fire Dist.,Rural,Combo,2,13,15,63.4,"1,074",17,"1,129",18,Deschutes,16,E,-120.957779,44.075646,0
+Wheeler Co. Fire & Rescue,Null,Null,Null,Null,0,Null,Null,Null,Null,Null,Wheeler,20,E,-120.215701,44.99798,0
+Lane Fire Authority,Rural,Combo,31,37,68,241.7,"22,866",95,"24,252",100,Lane,8,C,-123.249067,43.968613,0
+Pleasant Hill-Goshen Fire & Rescue,Rural,Combo,5,38,43,39.4,"5,507",140,"5,114",130,Lane,8,C,-122.920765,43.974576,0
+East Umatilla Fire & Rescue,Rural,Combo,3,5,8,428.8,"3,482",8,"3,414",8,Umatilla,19,D,-118.691106,45.841633,0
+Jefferson Co. Fire & EMS,Rural,Combo,30,15,45,153.9,"14,372",95,"8,715",57,Jefferson,17,E,-121.096091,44.66481,0
+Western Lane Fire & EMS Authority,Rural,Combo,23,12,35,99.7,"16,332",163,"11,295",113,Lane,8,C,-124.10205,43.989738,0
+Westfir VFD,Null,Null,Null,Null,0,0.3,259,836,259,836,Lane,8,C,-122.516612,43.75824,0
+McMinnville Fire Dist.,Combination,Combo,37,37,74,89.5,"39,358",440,"15,295",171,Yamhill,5,B,-123.192143,45.215913,0
+Central Douglas Fire & Rescue,Rural,Combo,41,27,68,121.8,"30,459",251,"16,573",136,Douglas,11,C,-123.425788,43.277626,0
+Rural Metro FD,Null,Career,55,0,55,315,"35,412",113,"26,591",84,Josephine,13,F,-123.322937,42.445709,0
